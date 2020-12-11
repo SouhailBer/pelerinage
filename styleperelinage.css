@@ -1,0 +1,16 @@
+header{
+	border: solid 2px;
+	padding: 0;
+}
+#pheader{
+	font-size: 17px;
+}
+div{
+	border: solid 2px;
+	
+}
+form label{
+	display: inline-block;
+	width: 200px;
+}
+
